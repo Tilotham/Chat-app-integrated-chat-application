@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "987459819966",
+    "project_id": "chat-bot-integrated-chat-app",
+    "storage_bucket": "chat-bot-integrated-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987459819966:android:22fbd8c736d93956e401ef",
+        "android_client_info": {
+          "package_name": "com.halfmin.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987459819966-lpmh0rs2ha13df2fttvp2bpn7h12i8sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAalxQVsX2hwJ9oi6x70nl4vOvLIYYTESQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987459819966-lpmh0rs2ha13df2fttvp2bpn7h12i8sl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
